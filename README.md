@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hey There! This is my account for programming automation tools and development in general
 
+⚡ Check out my other account focused on cybersecurity, exploit development and tools for hacking or bug bounty
+
+|
+|---> [Jsmoreira02](https://github.com/Jsmoreira02)
 <!--
 **JMoreira2Dev/JMoreira2Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
