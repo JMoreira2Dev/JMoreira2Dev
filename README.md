@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as IT Intern<br>- 📚 I'm currently learning GO (Just for fun) ...<br>- ⚡ In my free time I Work with Bug Bounty<br><br>I'm a big fan of low-level programming languages And I've been focussing on developing myself in C/C++ and Rust to build ever larger and more complex applications.</p>
+<p align="left">- 🔭 I’m working as IT Intern<br>- 📚 I'm currently learning GO (Just for fun) ...<br>- ⚡ In my free time I Work with Bug Bounty<br><br>I'm a big fan of low-level programming languages And I've focused on developing myself in C/C++ and Rust to build bigger and more complex applications.</p>
 
 ###
 
