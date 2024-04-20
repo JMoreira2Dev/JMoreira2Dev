@@ -10,7 +10,8 @@
 
 ###
 
-⚡ Check out my other account focused on cybersecurity, exploit development and tools for hacking or bug bounty: [Jsmoreira02](https://github.com/Jsmoreira02)
+⚡ Check out my other account focused on cybersecurity and hacking projects: [Jsmoreira02](https://github.com/Jsmoreira02)
+- I am a big fan of malware and exploit development, and I also have a lot of fun creating hacking tools.
 
 ###
 
