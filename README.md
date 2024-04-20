@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://github.com/Jsmoreira02/Jsmoreira02/assets/103542430/b638afba-7905-4903-87ca-19a14ff2d2d7" width="40" alt="ruby logo"  />
+  <img src="https://github.com/JMoreira2Dev/JMoreira2Dev/assets/167461650/d3960236-23aa-4747-ab2c-a6b3b7a3f7ce" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
